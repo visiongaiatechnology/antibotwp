@@ -20,6 +20,9 @@ VGT Shield ist eine **hochperformante, DSGVO-konforme reCAPTCHA-Alternative für
 Kein Häkchen. Kein "Ich bin kein Roboter". Keine Google-Anfragen. Keine Cookies.  
 Stattdessen: **unsichtbare, mathematische Bot-Abwehr direkt im Browser.**
 
+<img width="1676" height="959" alt="VGT Shield" src="https://github.com/user-attachments/assets/28809c9b-cdd6-4430-8195-a329d852d127" />
+
+
 ```
 Klassisches reCAPTCHA:
 → Nutzer klickt Checkbox
