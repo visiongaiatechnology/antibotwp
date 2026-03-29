@@ -128,7 +128,7 @@ class VGT_Admin {
                                     <option value="3" <?php selected($difficulty, 3); ?>>Level 3: VGT Standard Protocol</option>
                                     <option value="4" <?php selected($difficulty, 4); ?>>Level 4: High CPU Load (Maximum Security)</option>
                                 </select>
-                                <p class="vgt-desc">Adjusts the leading zeros target for the SHA-256 Web Worker.</p>
+                                <p class="vgt-desc">Adjusts the leading zeros target for the SHA-256 Web Worker.<br>Shortcode [vgt_shield] </p>
                             </div>
                             <button type="submit" class="vgt-btn">Synchronize Kernel</button>
                         </div>
