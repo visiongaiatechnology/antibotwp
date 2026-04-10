@@ -13,6 +13,13 @@
 
 ---
 
+## ⚠️ DISCLAIMER: EXPERIMENTAL R&D PROJECT
+
+This project is a **Proof of Concept (PoC)** Wordpress Security Layer. It is **not** a Enterprise Plugin, and can be unsafe.
+
+**Do not use this in critical production environments.** For enterprise-grade kernel-level protection, we recommend established Solutions.
+
+
 ## 🔍 Was ist VGT Shield?
 
 VGT Shield ist eine **hochperformante, DSGVO-konforme reCAPTCHA-Alternative für WordPress**. Das System eliminiert Bot-Interaktionen durch eine serverseitig validierte **Proof-of-Work (PoW) Engine**, die vollständig ohne Benutzerinteraktion und ohne externe Datentransfers (Zero-Cloud) operiert.
