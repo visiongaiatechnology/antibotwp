@@ -1,6 +1,6 @@
 /**
  * VISIONGAIATECHNOLOGY PoW MINING KERNEL
- * STATUS: DIAMANT SUPREME (Zero Promise Overhead, 100% Sync Bitwise Hashing, ESNext Strict)
+ * STATUS: DIAMANT SUPREME
  */
 "use strict";
 
@@ -88,7 +88,7 @@ self.onmessage = function(e) {
         const currentString = seed + nonce;
         const hashHex = sha256(currentString);
         
-        if (hashHex.startsWith(target)) {
+        if (hashHex && hashHex.startsWith(target)) {
             postMessage({ seed, timestamp, nonce, target });
             break;
         }
